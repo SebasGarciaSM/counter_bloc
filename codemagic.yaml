@@ -33,4 +33,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - $EMAIL_RECIPIENT
+          - sebastiangsm3@gmail.com
